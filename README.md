@@ -1,4 +1,4 @@
-<h1 align="left">Hey There! 🤞</h1>
+<h1 align="left"><span align="center">Hey There!</span> <img  src="https://media.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif" height="40" align="center" /></h1>
 
 ###
 
@@ -6,10 +6,10 @@
   <img align="right" float="right" src="https://count.getloli.com/@:GabrielLuZz?theme=sketch-1&padding=7&offset=0&scale=0.2&align=top&pixelated=1&darkmode=1"  />
     
   <div>
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"  height="22" alt="linkedin logo"  />
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg"  height="22" alt="twitter logo"  />
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg"  height="22" alt="discord logo"  />
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg"  height="22" alt="youtube logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"  height="22" alt="linkedin logo" width="30" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg"  height="22" alt="twitter logo"  width="30"/>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg"  height="22" alt="discord logo"  width="30"/>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg"  height="22" alt="youtube logo"  width="30" />
   </div>
 
 </div>
@@ -43,6 +43,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Software%20Engineer&fontSize=70&fontColor=628FDA&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=628FDA63"  />
 
 </div>
+
+
 
 
 
