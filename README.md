@@ -31,6 +31,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
 </div>
+<br />
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielLuZz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=prussian&hide_border=false&order=2" height="150" alt="languages graph"  />
