@@ -21,7 +21,10 @@
 Tenho mais de três anos de experiência como desenvolvedor web, com foco principal no front-end, utilizando tecnologias como Next.js, React e Node.js. Durante esse período, atuei em ambientes ágeis, com forte aplicação de práticas de Scrum para o desenvolvimento de software.
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielLuZz&locale=en&hide_title=false&layout=compact&card_width=260&langs_count=7&theme=prussian&hide_border=false&order=2" height="150" alt="languages graph"  />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=GabrielLuZz&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=prussian&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielLuZz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=prussian&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 
   
@@ -36,12 +39,7 @@ Tenho mais de três anos de experiência como desenvolvedor web, com foco princi
 
 ###
 
-<div align="left">
+<div align="right">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielLuZz&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielLuZz/GabrielLuZz/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrielLuZz/GabrielLuZz/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/GabrielLuZz/GabrielLuZz/output/pacman-contribution-graph.svg">
-</picture>
 </div>
 
