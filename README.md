@@ -2,14 +2,15 @@
 
 ###
 
+
+
 <div>
   <img align="right" float="right" src="https://count.getloli.com/@:GabrielLuZz?theme=sketch-1&padding=7&offset=0&scale=0.2&align=top&pixelated=1&darkmode=1"  />
-    
-  <div>
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"  height="22" alt="linkedin logo" width="30" />
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg"  height="22" alt="twitter logo"  width="30"/>
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg"  height="22" alt="discord logo"  width="30"/>
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg"  height="22" alt="youtube logo"  width="30" />
+
+  <div align="left">
+    <a href="https://www.linkedin.com/in/gabrielluzz/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="22" alt="linkedin logo"  /></a>
+    <a href="https://www.instagram.com/_devluz" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="30" height="22" alt="instagram logo"  /></a>
+    <a href="https://discord.com/users/627225773610237972" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="30" height="22" alt="discord logo"  /></a>
   </div>
 
 </div>
@@ -17,19 +18,20 @@
 
 <img align="right" height="400" src="./assets/toon.png"  />
 
-<p align="justify">Tenho mais de três anos de experiência como desenvolvedor web, com foco principal no front-end, utilizando tecnologias como Next.js, React e Node.js. Durante esse período, atuei em ambientes ágeis, com forte aplicação de práticas de Scrum para o desenvolvimento de software.
+<p align="justify">
+ With 3+ years in tech, I’m a Front-end Software Engineer specializing in React, Next.js, and scalable Node.js solutions. I focus on product, performance, and UX, delivering clean, maintainable, and high-performance code. I contribute to architecture decisions, reusable components, and workflow improvements, turning complex requirements into efficient solutions.
 </p>
-<br />
+
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="30" alt="docker logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
 </div>
 <br />
 
