@@ -1,31 +1,43 @@
-### Olá! Eu sou o GabrielLuZz, desenvolvedor fullstack 👋
+<h1 align="left">Hey There! 🤞</h1>
 
+###
 
-
-- 🔭 Proucuro uma vaga como desenvolvedor, de preferência frontend
-- 🌱 Estou atualmente estudando nodeJs
-- 😄 Pronomes: ele/dele
-
-<div align="center">
-  <a href="https://github.com/GabrielLuZz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielLuZz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLuZz&layout=compact&langs_count=7&theme=tokyonight"/>
+<div style="display: flex; justify-content: space-between; margin-bottom: 2rem;">
+<div align="left" style="display: flex; gap: 1rem">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"  height="22" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg"  height="22" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg"  height="22" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg"  height="22" alt="youtube logo"  />
 </div>
-  
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Biel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Biel-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Biel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Biel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Biel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Biel-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+
+<div class="contador" align="center" style="width: 100%; text-align: right;">
+
+<img src="https://count.getloli.com/@:GabrielLuZz?theme=sketch-1&padding=7&offset=0&scale=0.2&align=center&pixelated=1&darkmode=1"  />
+
 </div>
+
+
+
+
   
-  ##
+</div>
+
+<div>
+<img align="right" height="400" src="./assets/toon.png"  />
+</div>
+<p align="justify">Tenho mais de três anos de experiência como desenvolvedor web, com foco principal no front-end, utilizando tecnologias como Next.js, React e Node.js. Durante esse período, atuei em ambientes ágeis, com forte aplicação de práticas de Scrum para o desenvolvimento de software.</p>
+
+<img style="position: absolute;" src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielLuZz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=prussian&hide_border=false&order=2" height="150" alt="languages graph"  />
+
+
   
-  <div>
-  <a href="https://www.instagram.com/devlu.z" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:gabrielluzdev7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabriell-luiz-%F0%9F%8F%B3%EF%B8%8F%E2%80%8D%F0%9F%8C%88-22287a213/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>
- 
+<div align="right" style="position: relative; top: -3rem;">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=venom&height=100&section=header&reversal=false&text=Software%20Engineer&fontSize=70&fontColor=628FDA&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=628FDA63"  />
+
+</div>
+
+
+
+###
+
+###
