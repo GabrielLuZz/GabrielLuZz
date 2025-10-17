@@ -19,7 +19,7 @@
 <img align="right" height="400" src="./assets/toon.png"  />
 
 <p align="justify">
- With 3+ years in tech, I’m a Front-end Software Engineer specializing in React, Next.js, and scalable Node.js solutions. I focus on product, performance, and UX, delivering clean, maintainable, and high-performance code. I contribute to architecture decisions, reusable components, and workflow improvements, turning complex requirements into efficient solutions.
+ With 3+ years in tech, I’m a Software Engineer specialized in front-end with React, Next.js, and scalable Node.js solutions. I focus on product, performance, and UX, delivering clean, maintainable, and high-performance code. I contribute to architecture decisions, reusable components, and workflow improvements, turning complex requirements into efficient solutions.
 </p>
 
 <div align="left">
